@@ -1,1 +1,5 @@
-export const Griditem = ()
+export const Griditem = () => {
+  return(
+    <div></div>
+  )
+}
